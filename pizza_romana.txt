@@ -2,6 +2,11 @@ Recipe for a delicious spicy pizza romana.
 Pizza dough
 Tomatosauce
 Bacon
+<<<<<<< HEAD
 Pepper
 Leak
 Where is Carolina?
+=======
+Carolina Reaper
+Leak
+>>>>>>> spicy-experiments
