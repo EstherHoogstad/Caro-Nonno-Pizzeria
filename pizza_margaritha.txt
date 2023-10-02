@@ -2,3 +2,5 @@ Recipe for a delicious pizza margaritha
 Pizza doug
 tomatosauce
 Cheese
+Pepper
+Basil
